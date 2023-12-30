@@ -1,0 +1,17 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: ivory;
+}
+
+.index-container {
+    border: 1px solid black;
+    border-radius: 25px;
+    margin: 10px;
+    text-align: center;
+}
+
+.index-list {
+    list-style: none;
+    padding: 0;
+}
